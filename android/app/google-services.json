@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864020172864",
+    "project_id": "idziemy-jesc-357a0",
+    "storage_bucket": "idziemy-jesc-357a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864020172864:android:5610ef8e48f10269db4fa5",
+        "android_client_info": {
+          "package_name": "com.example.idziemy_jesc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864020172864-3ekllsogs5mj1pnpjgdqsc0f94e616c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idziemy_jesc",
+            "certificate_hash": "63effb888ab8923a2ac221ec3b3b88a7eaca9420"
+          }
+        },
+        {
+          "client_id": "864020172864-vad1svtvjpp8nfe95l4navgkjo3ib1d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfsBFxWSij-5jitEtCQtV9GVYJFmN130"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864020172864-vad1svtvjpp8nfe95l4navgkjo3ib1d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
